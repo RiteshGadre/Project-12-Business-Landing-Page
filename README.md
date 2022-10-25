@@ -6,7 +6,7 @@
 
 ![](./images/FireShot%20Capture%20002%20-%20Document%20-%20127.0.0.1.png)
 
-[Click Here to Visit Site](https://ritesh-interior-landing-page.netlify.app/)
+[Click Here to Visit Site](https://symphonious-dodol-f7f9cc.netlify.app//)
 
 # ![](https://img.shields.io/badge/-Technologies%20Used-blue)
 ```
